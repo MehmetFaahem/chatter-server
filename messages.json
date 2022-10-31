@@ -1,0 +1,46 @@
+{
+  "messages": [
+    {
+      "text": "Hey, I am Faahem from Addabaji",
+      "name": "Faahem Vai",
+      "id": "123"
+    },
+    {
+      "text": "You are most welcome to my project",
+      "name": "Faahem Vai",
+      "id": "456"
+    },
+    {
+      "text": "Start Your Chatting!",
+      "name": "Faahem Vai",
+      "id": "789"
+    },
+    {
+      "text": "koi",
+      "name": "chosa",
+      "id": "undefined0.803973786104965",
+      "clickedID": ""
+    },
+    {
+      "text": "asai",
+      "name": "asen keu",
+      "id": "womevcjNim8_du0zAAAG0.9805201297134116",
+      "socketID": "womevcjNim8_du0zAAAG",
+      "clickedID": ""
+    },
+    {
+      "text": "koi asen?",
+      "name": "chosa",
+      "id": "kIkVC9Z-mUR0Kz2sAAAH0.9033111183768654",
+      "socketID": "kIkVC9Z-mUR0Kz2sAAAH",
+      "clickedID": ""
+    },
+    {
+      "text": "dhakay",
+      "name": "asen keu",
+      "id": "YW2ecO02nEon8ebzAAAD0.7285283925912791",
+      "socketID": "YW2ecO02nEon8ebzAAAD",
+      "clickedID": ""
+    }
+  ]
+}
