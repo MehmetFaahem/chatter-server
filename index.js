@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
-const PORT = 4000;
+const dotenv = require('dotenv').config()
+
+
+const PORT = process.env.PORT || 4000;
 
 const fs = require('fs')
 const messageData = fs.readFileSync('messages.json')
